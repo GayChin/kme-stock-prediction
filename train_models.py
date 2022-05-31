@@ -36,7 +36,7 @@ def create_plot(dates, original_prices, ml_models_outputs):
 
 
 def train_predict_plot(file_name, df, ml_model):
-
+    print("halo world")
     # print (df.head())
 
     ml_models_outputs = {}
