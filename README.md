@@ -20,7 +20,7 @@
 ![Demo](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/expert-system-demo.gif)
 
 ## Code
-![Code](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/code.png)
+![Code](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/code.PNG)
 
 ## Dashbord
 ![Output-Data](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/dashboard.png)
