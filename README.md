@@ -17,21 +17,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ## Demo
-![Demo](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/ezgif.com-video-to-gif.gif)
+![Demo](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/expert-system-demo.gif)
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/code.PNG)
+![Code](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/code.png)
 
 ## Dashbord
-![Output-Data](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture3.PNG)
+![Output-Data](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/dashboard.png)
 
 
 ## Prediction result
-![predic](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture1.PNG)
+![predic](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/result.png)
 
 ## Models evaluation
-![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture2.PNG)
-![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Plot.png)
+![evaluation](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/test-evaluation.png)
+![evaluation](https://github.com/GayChin/kme-stock-prediction/blob/main/pics/predictions.png)
 
 ### Built With
 * [Python](https://www.python.org/)
